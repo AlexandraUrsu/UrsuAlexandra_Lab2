@@ -1,0 +1,5 @@
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.csproj.AssemblyReference.cache
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.AssemblyInfoInputs.cache
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.AssemblyInfo.cs
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\netcoreapp3.1\LibraryModel.csproj.CoreCompileInputs.cache

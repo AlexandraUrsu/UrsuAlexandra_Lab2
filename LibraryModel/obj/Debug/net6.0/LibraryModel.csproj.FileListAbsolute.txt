@@ -1,0 +1,14 @@
+C:\Users\alexandra.ursu\source\repos\LibraryModel\bin\Debug\net6.0\LibraryModel.deps.json
+C:\Users\alexandra.ursu\source\repos\LibraryModel\bin\Debug\net6.0\LibraryModel.runtimeconfig.json
+C:\Users\alexandra.ursu\source\repos\LibraryModel\bin\Debug\net6.0\LibraryModel.dll
+C:\Users\alexandra.ursu\source\repos\LibraryModel\bin\Debug\net6.0\ref\LibraryModel.dll
+C:\Users\alexandra.ursu\source\repos\LibraryModel\bin\Debug\net6.0\LibraryModel.pdb
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.csproj.AssemblyReference.cache
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.AssemblyInfoInputs.cache
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.AssemblyInfo.cs
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.dll
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\ref\LibraryModel.dll
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.pdb
+C:\Users\alexandra.ursu\source\repos\LibraryModel\obj\Debug\net6.0\LibraryModel.genruntimeconfig.cache
