@@ -7526,11 +7526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexandra.ursu\\source\\repos\\LibraryModel\\LibraryModel.csproj",
+      "projectUniqueName": "C:\\Users\\alexandra.ursu\\source\\repos\\Laborator8\\LibraryModel\\LibraryModel.csproj",
       "projectName": "LibraryModel",
-      "projectPath": "C:\\Users\\alexandra.ursu\\source\\repos\\LibraryModel\\LibraryModel.csproj",
+      "projectPath": "C:\\Users\\alexandra.ursu\\source\\repos\\Laborator8\\LibraryModel\\LibraryModel.csproj",
       "packagesPath": "C:\\Users\\alexandra.ursu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandra.ursu\\source\\repos\\LibraryModel\\obj\\",
+      "outputPath": "C:\\Users\\alexandra.ursu\\source\\repos\\Laborator8\\LibraryModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

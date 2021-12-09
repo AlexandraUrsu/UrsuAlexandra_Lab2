@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWAcgXrFVeCNVYj4ZWTCmLKGlWAT2tW3yBkzendzcckULpqR2oLRBhijq1G87+wGzyKp/sN+XWZW/Ds3+iujLA==",
+  "dgSpecHash": "VJjdLBxlOmivTSC1F/z2EksiwVoqL2XAfuByJkm3CSGYJaZQkcADvaruYZJDGqC50+DucRf/J512hcRlNFJIZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandra.ursu\\source\\repos\\LibraryModel\\LibraryModel.csproj",
+  "projectFilePath": "C:\\Users\\alexandra.ursu\\source\\repos\\Laborator8\\LibraryModel\\LibraryModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexandra.ursu\\.nuget\\packages\\bootstrap\\3.3.7\\bootstrap.3.3.7.nupkg.sha512",
     "C:\\Users\\alexandra.ursu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
