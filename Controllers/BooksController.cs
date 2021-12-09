@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,7 @@ using UrsuAlexandra_Lab2.Models;
 
 namespace UrsuAlexandra_Lab2.Controllers
 {
+    [Authorize(Roles = "Employee")]
     public class BooksController : Controller
     {
         private readonly LibraryContext _context;
@@ -21,6 +23,7 @@ namespace UrsuAlexandra_Lab2.Controllers
         }
 
         // GET: Books
+        [AllowAnonymous]
         public async Task<IActionResult> Index(
   string sortOrder,
   string currentFilter,
@@ -99,6 +102,7 @@ namespace UrsuAlexandra_Lab2.Controllers
         }
 
         // GET: Books/Edit/5
+
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
